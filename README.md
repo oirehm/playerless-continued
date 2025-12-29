@@ -1,6 +1,6 @@
 # Playerless Continued
 
-![Loader](https://img.shields.io/badge/Loader-Fabric-beige) ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1%20--%201.21.11-brightgreen) ![License](https://img.shields.io/badge/License-MIT-green) [![Modrinth](https://img.shields.io/badge/Modrinth-Download-brightgreen)](https://modrinth.com/mod/YOUR_MODRINTH_SLUG)
+![Loader](https://img.shields.io/badge/Loader-Fabric-beige) ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1%20--%201.21.11-brightgreen) ![License](https://img.shields.io/badge/License-MIT-green) [![Modrinth](https://img.shields.io/badge/Modrinth-Download-brightgreen)](https://modrinth.com/mod/playerless-continued)
 
 **Playerless Continued** is an updated continuation of the original [Playerless mod by jadc](https://modrinth.com/mod/playerless).
 
