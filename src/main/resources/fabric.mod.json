@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "playerless-continued",
+  "version": "${version}",
+  "name": "Playerless Continued",
+  "description": "Mobs drop XP & loot regardless of death cause. Continuation of jadc's playerless for 1.21.x.",
+  "authors": [
+    "oirehm"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/playerless/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.oirehm.playerless.Playerless"
+    ]
+  },
+  "mixins": [
+    "playerless.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": ">=1.21.1 <1.21.12",
+    "java": ">=21"
+  }
+}
