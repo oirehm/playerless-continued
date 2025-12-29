@@ -1,6 +1,6 @@
 # Playerless Continued
 
-![Loader](https://img.shields.io/badge/Loader-Fabric-beige) ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1%20--%201.21.11-brightgreen) ![License](https://img.shields.io/badge/License-MIT-green)
+![Loader](https://img.shields.io/badge/Loader-Fabric-beige) ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1%20--%201.21.11-brightgreen) ![License](https://img.shields.io/badge/License-MIT-green) [![Modrinth](https://img.shields.io/badge/Modrinth-Download-brightgreen)](https://modrinth.com/mod/YOUR_MODRINTH_SLUG)
 
 **Playerless Continued** is an updated continuation of the original [Playerless mod by jadc](https://modrinth.com/mod/playerless).
 
@@ -23,7 +23,7 @@ This mod ensures that mobs drop exp and loot regardless of how they die. Whether
 ## Installation
 
 1.  Install **Fabric Loader** for your specific version.
-2.  Download the latest `.jar` from the [Releases](https://github.com/YOUR_USERNAME/REPO_NAME/releases) tab.
+2.  Download the latest `.jar` from the [Releases](https://github.com/oirehm/playerless-continued/releases) tab.
 3.  Place the file (and Fabric API) into your server's or game's `mods` folder.
 4.  Launch the game.
 
